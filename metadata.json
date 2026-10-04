@@ -1,0 +1,6 @@
+{
+  "name": "Mantis - Liquid Glass Dashboard",
+  "description": "Liquid glass productivity dashboard for biomedical engineering students, featuring interactive habit trackers, study analytics, deadlines, and goal progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
